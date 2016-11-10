@@ -6,5 +6,7 @@ Raw data \(Gzipped FASTQ\): `/sites/hudson-alpha/raw_data/2016-03-21/`
 
 Processed data \(Gzipped VCF\): `/sites/hudson-alpha/derived_data/2016-03-21/`
 
+The output data are in variant call format \(VCF\), which contains single-nucleotide polymorphism \(SNP\) and insertion-deletion \(indel\) variation relative to the reference _Sorghum bicolor_ [v3.1 genome](https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Sbicolor).
+
 
 
