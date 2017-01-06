@@ -1,9 +1,10 @@
 # PhenoTractor Sensor Protocols 
 
-    Authors:
+    Authors: Matthew Maimaitiyiming and Wasit Wulamu
+    Center for Sustainability, Saint Louis University, St. Louis, MO 63108
 
 ## Abstract
-
+This document provides a brief summary of methods, procedures, and workflows to process the tracktor data. 
 
 ## Materials
 
