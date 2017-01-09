@@ -6,7 +6,7 @@
 
 
 ## Abstract
-
+This document summarizes data processing workflows and methods to extract phenotractor data to a CSV file. 
 
 ## Materials
 
