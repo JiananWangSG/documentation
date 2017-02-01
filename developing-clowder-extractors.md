@@ -2,7 +2,7 @@
 
 Extractors are services that run silently alongside Clowder. They can be configured to wait for specific file types to be uploaded into Clowder, and automatically execute operations on those files to extract metadata.
 
-It is possible to develop extractors for new file types or tasks. See [the NCSA Extractor Development wiki](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Extractor+Development#ExtractorDevelopment-Extractorbasics) for complete instructions
+It is possible to develop extractors for new file types or tasks. See [the NCSA Extractor Development wiki](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Extractors) for complete instructions
 
 
 
@@ -11,7 +11,7 @@ _______________
 
 
 
- [The NCSA Clowder wiki](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Administrating+Clowder) provides an up-to-date installation guide for Clowder.
+ [The NCSA Clowder wiki](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Administrators) provides an up-to-date installation guide for Clowder.
 
 
 
@@ -25,7 +25,7 @@ _______________________
 
 * **Source code** is available as a collection of Git repositories.
 * Tutorial
- * [overview](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Extractor+Development)
+ * [overview](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Extractors)
  * [video](https://www.youtube.com/embed/lP3vqh6HLG4)
 * [pyClowder](https://opensource.ncsa.illinois.edu/bitbucket/projects/CATS/repos/pyclowder/browse) is designed for this purpose.
 * [Development in Windows](https://opensource.ncsa.illinois.edu/confluence/display/CATS/Deploying+Windows+Extractors)
