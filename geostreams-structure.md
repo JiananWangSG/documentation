@@ -38,23 +38,23 @@ Here, the various streams that are used in the pipeline and their contents are l
     * co2 Observations
         * **co2** [ppm / 493.4684409718]
     * Spectrometer Observations
-        * maxFixedIntensity [16383]
-        * integration time in us [5000]
-        * wavelength [long array of decimals]
-        * spectrum [long array of decimals]
+        * **maxFixedIntensity** [16383]
+        * **integration time in us** [5000]
+        * **wavelength** [long array of decimals]
+        * **spectrum** [long array of decimals]
         
 * AZMET Maricopa Weather Station 
     * Weather Observations 
-        * wind_speed [1.089077491]
-        * eastward_wind [-0.365913231]
-        * northward_wind [-0.9997966834]
-        * air_temperature [Kelvin/301.1359779]
-        * relative_humidity [60.41579336]
-        * preciptation_rate [0]
-        * surface_downwelling_shortwave_flux_in_air [43.60608856]
-        * surface_downwelling_photosynthetic_photon_flux_in_air [152.1498155]
+        * **wind_speed** [1.089077491]
+        * **eastward_wind** [-0.365913231]
+        * **northward_wind** [-0.9997966834]
+        * **air_temperature** [Kelvin/301.1359779]
+        * **relative_humidity** [60.41579336]
+        * **preciptation_rate** [0]
+        * **surface_downwelling_shortwave_flux_in_air** [43.60608856]
+        * **surface_downwelling_photosynthetic_photon_flux_in_air** [152.1498155]
     * Irrigation Observations
-        * flow [gallons / 7903]
+        * **flow** [gallons / 7903]
     
 * UIUC Energy Farm - Location 1
 * UIUC Energy Farm - Location 2   
@@ -65,7 +65,7 @@ Here, the various streams that are used in the pipeline and their contents are l
 
 * PLOT_ID e.g. Range 51 Pass 2 (each plot gets a separate location group)
     * sensorName - Range 51 Pass 2 (each sensor gets a separate stream within the plot)
-        * fov [polygon geometry]
-        * centroid [point geometry]
+        * **fov** [polygon geometry]
+        * **centroid** [point geometry]
     * canopycover - Range 51 Pass 2
-        * canopy_cover [height/0.294124289126]
+        * **canopy_cover** [height/0.294124289126]
