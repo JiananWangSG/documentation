@@ -16,7 +16,7 @@ TERRA-REF organizes data into three levels:
 Here, the various streams that are used in the pipeline and their contents are listed.
 
 * Location group
-    * Stream name [extractor source]
+    * Stream name
         * **Datapoint property** [units / sample value]
         * ...
 
