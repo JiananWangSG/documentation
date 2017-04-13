@@ -56,13 +56,20 @@ Here, the various streams that are used in the pipeline and their contents are l
     * Irrigation Observations
         * **flow** [gallons / 7903]
     
-* UIUC Energy Farm - Location 1
-* UIUC Energy Farm - Location 2   
-* UIUC Energy Farm - Location 3
-* UIUC Energy Farm - Location 4 (?)
-    * Energy Farm Observations
-        * 
-
+* UIUC Energy Farm - CEN
+* UIUC Energy Farm - NE
+* UIUC Energy Farm - SE
+    * Energy Farm Observations - CEN/NE/SE
+        * **wind_speed**
+        * **eastward_wind**
+        * **northward_wind**
+        * **air_temperature**
+        * **relative_humidity**
+        * **preciptation_rate**
+        * **surface_downwelling_shortwave_flux_in_air**
+        * **surface_downwelling_photosynthetic_photon_flux_in_air**
+        * **air_pressure**
+    
 * PLOT_ID e.g. Range 51 Pass 2 (each plot gets a separate location group)
     * sensorName - Range 51 Pass 2 (each sensor gets a separate stream within the plot)
         * **fov** [polygon geometry]
