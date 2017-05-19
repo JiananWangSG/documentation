@@ -7,10 +7,10 @@
 
 ## Abstract
 
+<!-- needs summary-->
+Content modified from [Andrade-Sanchez et al 2014](http://www.publish.csiro.au/fp/FP13126). 
 
 ## Materials
-
-See [Andrade-Sanchez et al 2014](http://www.publish.csiro.au/fp/FP13126)
 
 * Tractor
 * Sensors
@@ -27,6 +27,7 @@ See [Andrade-Sanchez et al 2014](http://www.publish.csiro.au/fp/FP13126)
 ## Methods
 
 ### Tractor 
+
 The Tractor-based plant phenotyping system (Phenotractor) was built on a LeeAgra 3434 DL open rider sprayer. 
 The vehicle has a clearance of 1.93 m. A boom attached to the front end
 of the tractor frame holds the sensors, data loggers, and other instrumentation components including
